@@ -8,6 +8,8 @@
 
 Ссылка на автора: https://huggingface.co/IlyaGusev
 
+Ссылка на Colab: https://colab.research.google.com/drive/1v1YOIdgMYiZI10er5nllWNiKw9fM1Twe?usp=sharing
+
 
 ### Описание
 Изначально я решил использоать KnowledgeGraph, т.к в теоритической части было сказано:
